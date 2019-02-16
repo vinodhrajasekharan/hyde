@@ -7,15 +7,15 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Vinodh Rajasekharan
+tagline:          'developer journal'
+description:      'Native,Web,Cloud and Mobile apps expert at Microsoft'
+url:              http://vinodhr.com 
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Vinodh Rajasekharan'
+  url:            https://github.com/vinodhrajasekharan
 
 paginate:         5
 
@@ -23,6 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
-
-theme: jekyll-theme-leap-day
+  repo:           https://github.com/vinodhrajasekharan
